@@ -1,9 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### 🔨 Guia de instalação
 
-## Getting Started
+Para iniciar o projeto, execute os seguintes passos:
 
-First, run the development server:
+Etapas para instalar:
 
+```bash
+npm install
+# or
+yarn
+# or
+pnpm
+# or
+bun
+```
+
+Passo 2:
 ```bash
 npm run dev
 # or
@@ -14,23 +25,19 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📦 Tecnologias usadas:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+* ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+* ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-## Learn More
+## 👷 Autores
 
-To learn more about Next.js, take a look at the following resources:
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* **Gustavo Guilherme Camepelo Antunes** - *Frontend do projeto*
+* **Moacir Bishp Camata** - *Gestor do projeto*
