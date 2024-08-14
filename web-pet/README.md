@@ -40,4 +40,4 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
 * **Gustavo Guilherme Camepelo Antunes** - *Frontend do projeto*
-* **Moacir Bishp Camata** - *Gestor do projeto*
+* **Moacir Bishop Camata** - *Gestor do projeto*
