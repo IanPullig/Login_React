@@ -1,4 +1,4 @@
-# e-Campet
+# e-CamPet
 
 Este projeto tem como objetivo facilitar a criação e o gerenciamento de campanhas de vacinação de animais. A vacinação é uma medida essencial para proteger a saúde animal e, consequentemente, a saúde pública, evitando a propagação de doenças. A plataforma desenvolvida visa otimizar a coordenação entre diferentes postos de vacinação, permitindo um gerenciamento mais eficiente e integrado das campanhas.
 
@@ -19,4 +19,4 @@ A combinação desses dois componentes resulta em uma solução completa para o 
 
 ## 📄 Licença
 
-Esse projeto está sob a licença (MIT License) - acesse os detalhes [LICENSE.md](https://gitlab.portovelho.ro.gov.br/desis/disa/e-campet/-/blob/main/LICENSE).
+Esse projeto está sob a licença (MIT License) - acesse os detalhes [LICENSE.md](https://gitlab.portovelho.ro.gov.br/desis/disa/e-CamPet/-/blob/main/LICENSE).

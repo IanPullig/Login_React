@@ -3,7 +3,7 @@ import './globals.css'
 import { ThemeProvider } from '@/components/theme-provider'
 
 export const metadata: Metadata = {
-  title: 'e-Campet',
+  title: 'e-CamPet',
   description: 'Sistema de campanhas de vacinação',
 }
 
