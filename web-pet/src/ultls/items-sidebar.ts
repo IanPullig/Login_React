@@ -14,7 +14,7 @@ export const itemsSidebars: ItemsSidebar[] = [
   },
   {
     name: 'Campanhas',
-    href: '/campanhas',
+    href: '/inicio/campanhas',
     icon: 'CalendarDays',
   },
 ]
