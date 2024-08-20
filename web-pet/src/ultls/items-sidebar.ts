@@ -12,4 +12,9 @@ export const itemsSidebars: ItemsSidebar[] = [
     href: '/inicio',
     icon: 'House',
   },
+  {
+    name: 'Campanhas',
+    href: '/campanhas',
+    icon: 'CalendarDays',
+  },
 ]
