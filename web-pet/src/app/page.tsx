@@ -17,7 +17,7 @@ export default function Login() {
               <h1 className="text-3xl font-bold">e-CamPet</h1>
             </div>
             <p className="text-balance text-muted-foreground">
-              Insira suas credenciais abaixo para fazer entrar em sua conta
+              Insira suas credenciais abaixo para entrar em sua conta
             </p>
           </div>
           <FormLogin />
